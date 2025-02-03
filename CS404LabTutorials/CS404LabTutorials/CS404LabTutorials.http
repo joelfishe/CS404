@@ -1,0 +1,6 @@
+@CS404LabTutorials_HostAddress = http://localhost:5254
+
+GET {{CS404LabTutorials_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

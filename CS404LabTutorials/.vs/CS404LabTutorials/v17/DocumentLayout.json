@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{120E6A96-CE73-4085-B41E-C780BE170223}|CS404Lab2\\CS404Lab2.csproj|c:\\users\\fishg\\source\\repos\\cs404\\cs404labtutorials\\cs404lab2\\cs404lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{120E6A96-CE73-4085-B41E-C780BE170223}|CS404Lab2\\CS404Lab2.csproj|solutionrelative:cs404lab2\\cs404lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{41E99234-063D-43B1-8BF6-2763861A80E5}|lab5\\lab5.csproj|c:\\users\\fishg\\source\\repos\\cs404\\cs404labtutorials\\lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41E99234-063D-43B1-8BF6-2763861A80E5}|lab5\\lab5.csproj|solutionrelative:lab5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E99234-063D-43B1-8BF6-2763861A80E5}|lab5\\lab5.csproj|c:\\users\\fishg\\source\\repos\\cs404\\cs404labtutorials\\lab5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41E99234-063D-43B1-8BF6-2763861A80E5}|lab5\\lab5.csproj|solutionrelative:lab5\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E99234-063D-43B1-8BF6-2763861A80E5}|lab5\\lab5.csproj|c:\\users\\fishg\\source\\repos\\cs404\\cs404labtutorials\\lab5\\lab5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{41E99234-063D-43B1-8BF6-2763861A80E5}|lab5\\lab5.csproj|solutionrelative:lab5\\lab5.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CS404Lab2",
-              "DocumentMoniker": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\CS404Lab2\\CS404Lab2.csproj",
-              "RelativeDocumentMoniker": "CS404Lab2\\CS404Lab2.csproj",
-              "ToolTip": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\CS404Lab2\\CS404Lab2.csproj",
-              "RelativeToolTip": "CS404Lab2\\CS404Lab2.csproj",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab5\\appsettings.json",
+              "RelativeDocumentMoniker": "lab5\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab5\\appsettings.json",
+              "RelativeToolTip": "lab5\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T19:31:20.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab5\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lab5\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab5\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lab5\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T19:28:31.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab5",
+              "DocumentMoniker": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab5\\lab5.csproj",
+              "RelativeDocumentMoniker": "lab5\\lab5.csproj",
+              "ToolTip": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab5\\lab5.csproj",
+              "RelativeToolTip": "lab5\\lab5.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T14:42:13.826Z",
+              "WhenOpened": "2025-02-06T19:28:29.483Z",
               "EditorCaption": ""
             }
           ]

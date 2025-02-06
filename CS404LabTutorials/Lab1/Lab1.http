@@ -1,0 +1,31 @@
+﻿@Lab1_HostAddress = https://localhost:7009
+
+POST {{Lab1_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name":"walk dog",
+  "isComplete":true
+}
+
+
+
+###
+
+GET {{Lab1_HostAddress}}/todoitems
+
+###
+
+PUT {{Lab1_HostAddress}}/todoitems/1
+Content-Type: application/json
+
+{
+  "name": "feed fish",
+  "isComplete": false
+}
+
+###
+
+DELETE {{Lab1_HostAddress}}/todoitems/1
+
+###

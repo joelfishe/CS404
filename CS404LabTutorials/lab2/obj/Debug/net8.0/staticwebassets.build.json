@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "0wZAc0WhTLfVQVxxjX8DVQ5g9iKXy+++ewDcQft7EEk=",
+  "Source": "Lab2_and_Lab4",
+  "BasePath": "_content/Lab2_and_Lab4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab2_and_Lab4\\wwwroot",
+      "Source": "Lab2_and_Lab4",
+      "ContentRoot": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab2\\wwwroot\\",
+      "BasePath": "_content/Lab2_and_Lab4",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab2\\wwwroot\\index.html",
+      "SourceId": "Lab2_and_Lab4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Fishg\\source\\repos\\CS404\\CS404LabTutorials\\lab2\\wwwroot\\",
+      "BasePath": "_content/Lab2_and_Lab4",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

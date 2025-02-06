@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS404Lab2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+135e81ba7538cbe92cd484faa8eb1b73cd396b47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6182635376cfcbb35f8dd7da0b383024eb8c9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS404Lab2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS404Lab2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
